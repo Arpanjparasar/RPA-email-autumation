@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VXCTffdZn6Nl5dM1i2Ou54BIWVP1wyy6FRjgnvGVccJZo55xDG56I8CmtvbbBSCIreyWOUezhGBkRIn62fcM9Q==",
+  "dgSpecHash": "PGUgFCvUwnYwgn5NqrdAhINB8lsJzwPd5dLnvTKY6zkIqgP/WtP91DkeQW1y+tnRcTvOF+X7JSgYMNKCcP1/CQ==",
   "success": true,
-  "projectFilePath": "D:\\UiPath\\First automation using Google Workspace - StudioX Project\\First automation using Google Workspace\\.local\\",
+  "projectFilePath": "D:\\UiPath\\First Automation using microsoft office\\First automation using Google Workspace - StudioX Project\\First automation using Google Workspace\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\arpan\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\arpan\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",

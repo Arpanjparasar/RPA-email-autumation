@@ -10750,9 +10750,9 @@
     "restore": {
       "projectUniqueName": "First automation using Google Workspace",
       "projectName": "First automation using Google Workspace",
-      "projectPath": "D:\\UiPath\\First automation using Google Workspace - StudioX Project\\First automation using Google Workspace\\.local",
+      "projectPath": "D:\\UiPath\\First Automation using microsoft office\\First automation using Google Workspace - StudioX Project\\First automation using Google Workspace\\.local",
       "packagesPath": "C:\\Users\\arpan\\.nuget\\packages\\",
-      "outputPath": "D:\\UiPath\\First automation using Google Workspace - StudioX Project\\First automation using Google Workspace\\.local"
+      "outputPath": "D:\\UiPath\\First Automation using microsoft office\\First automation using Google Workspace - StudioX Project\\First automation using Google Workspace\\.local"
     },
     "frameworks": {
       "net461": {
